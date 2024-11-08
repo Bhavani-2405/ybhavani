@@ -1,12 +1,12 @@
 # ybhavani
 test-account
 
-#Introduction to AI
+# Introduction to AI
 
--Why ML?
--Advantages
--Applications
+- Why ML?
+- Advantages
+- Applications
 
-1.Health
-2.Government
-3.Sports
+1. Health
+2. Government
+3. Sports
