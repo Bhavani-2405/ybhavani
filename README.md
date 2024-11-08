@@ -13,4 +13,4 @@ test-account
 
 [link_to_be_displayed]_(actual_link)
 
-[nature](https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_640.jpg)
+[nature](https://img.freepik.com/free-photo/colorful-design-with-spiral-design_188544-9588.jpg)
